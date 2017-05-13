@@ -2,7 +2,7 @@ project (airdcpp-webclient)
 cmake_minimum_required (VERSION 2.8.6)
 
 if (APPLE)
-  set (PROJECT_NAME_GLOBAL AirDC++ Web Client)
+  set (PROJECT_NAME_GLOBAL AirDC++WebClient)
 else (APPLE)
   set (PROJECT_NAME_GLOBAL airdcpp-webclient)
 endif (APPLE)
